@@ -370,4 +370,4 @@ Test it out with your example and see it compares with the one that's already be
 
 ## Next Section
 
-[Github Actions Configuration](08_Github_Actions_Configuration.md)
+[Octopus Deployment process configuration](09_Octopus_Configuration.md)
