@@ -8,7 +8,7 @@ This workshop should always be led by a DevOps expert who can fill in any gaps d
 
 ## Chapters
 
-Please check the [Summary](/Workshop/WorkShopGuide/01_Summary.md) file instructions. We will work through these in a specific order as the workshop has to be carried out for it all to work at the end. 
+We will work through these in a specific order as the workshop has to be carried out for it all to work at the end. 
 
 * [01_Summary](/Workshop/WorkshopGuide/01_Summary.md)
 * [02_Prerequisites](/Workshop/WorkshopGuide/02_Prerequisites.md)
@@ -51,5 +51,5 @@ You can see the accompanying slides [here](https://docs.google.com/presentation/
 
 ## Workshop Start
 
-When ready, you can start with the [Workshop Summary](/WorkShop/WorkshopGuide/01_Summary.md).
+When ready, you can start with the [Workshop Summary](/Workshop/WorkshopGuide/01_Summary.md).
 
