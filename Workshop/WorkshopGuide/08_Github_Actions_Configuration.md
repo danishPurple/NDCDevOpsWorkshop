@@ -370,4 +370,4 @@ Test it out with your example and see it compares with the one that's already be
 
 ## Next Section
 
-[Octopus Configuration](09_Octopus_Configuration.md)
+[Octopus Configuration](09_Octopus_Deploy_Configuration.md)
