@@ -83,9 +83,7 @@ on:
     - cron: "0 07 * * *"
 ```
 
-:::warning
 If your repo has been inactive for over 60 days, cron jobs will stop building.
-:::
 
 #### On-demand
 
