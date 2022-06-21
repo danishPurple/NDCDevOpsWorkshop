@@ -67,4 +67,4 @@ jobs:
         octo create-release --project OctoPetShop-DD --version="$PACKAGE_VERSION" --server="${{ secrets.OCTOPUSSERVERURL }}" --apiKey="${{ secrets.OCTOPUSSERVERAPIKEY }}" --space="${{ secrets.OCTOPUSSERVER_SPACE }}"
     - name: Deploy Release
       run: |
-        octo deploy-release --project OctoPetShop-DD --version="$PACKAGE_VERSION" --server="${{ secrets.OCTOPUSSERVERURL }}" --apiKey="${{ secrets.OCTOPUSSERVERAPIKEY }}" --space="${{ secrets.OCTOPUSSERVER_SPACE }}" --deployTo Test
+        octo deploy-release --project OctoPetShop-DD --version="$PACKAGE_VERSION" --server="${{ secrets.OCTOPUSSERVERURL }}" --apiKey="${{ secrets.OCTOPUSSERVERAPIKEY }}" --space="${{ secrets.OCTOPUSSERVER_SPACE }}" --deployTo production
